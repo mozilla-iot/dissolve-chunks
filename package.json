@@ -1,6 +1,6 @@
 {
   "name": "dissolve-chunks",
-  "version": "1.3.1-moziot-002",
+  "version": "1.3.1-3",
   "description": "A declarative parser generator based on dissolve",
   "main": "index.js",
   "scripts": {
